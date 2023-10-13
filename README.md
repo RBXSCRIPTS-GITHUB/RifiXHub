@@ -1,6 +1,6 @@
 # RifiXHub
 
-**Just an exploiting script for my favourite lego game called bloblox not roblox :/**ç
+**Just an exploiting script for my favourite lego game called bloblox not roblox :/**
 
 ## Games Compatible
 
